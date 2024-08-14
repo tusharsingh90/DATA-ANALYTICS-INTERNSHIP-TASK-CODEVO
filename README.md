@@ -1,4 +1,3 @@
-# DATA-ANALYTICS-INTERNSHIP-TASK-CODEVO 
 # Data Analytics Internship at CodEvo Solutions
 
 Welcome to the Data Analytics Internship at CodEvo Solutions! This repository contains three tasks that will help you develop your data handling and analysis skills using real-world data.
